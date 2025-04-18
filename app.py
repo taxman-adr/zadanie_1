@@ -22,7 +22,7 @@ def prediction():
         "features": {
             "a": a,
             "b": b,
-            "sum": suma
+            "suma": suma
         }
     })
 
